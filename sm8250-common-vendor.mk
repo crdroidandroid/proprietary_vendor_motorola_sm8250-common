@@ -943,7 +943,6 @@ PRODUCT_PACKAGES += \
     ImsRcsService \
     QtiTelephonyService \
     SoterService \
-    datastatusnotification \
     WfdService \
     dpmserviceapp \
     ims \
