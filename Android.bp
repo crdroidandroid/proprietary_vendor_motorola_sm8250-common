@@ -399,4 +399,3 @@ install_symlink {
 	installed_location: "bin/expat",
 	symlink_target: "/vendor/bin/motobox",
 }
-
